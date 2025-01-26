@@ -1,0 +1,106 @@
+Folder PATH listing
+Volume serial number is E8F4-9D60
+C:.
+|   index.html
+|   LICENSE.txt
+|   README.txt
+|   tree.txt
+|   
++---assets
+|   +---css
+|   |   |   fontawesome-all.min.css
+|   |   |   main.css
+|   |   |   noscript.css
+|   |   |   
+|   |   \---images
+|   |           arrow.svg
+|   |           close.svg
+|   |           spinner.svg
+|   |           
+|   +---js
+|   |       breakpoints.min.js
+|   |       browser.min.js
+|   |       jquery.min.js
+|   |       jquery.poptrox.min.js
+|   |       main.js
+|   |       util.js
+|   |       
+|   +---sass
+|   |   |   main.scss
+|   |   |   noscript.scss
+|   |   |   
+|   |   +---base
+|   |   |       _page.scss
+|   |   |       _reset.scss
+|   |   |       _typography.scss
+|   |   |       
+|   |   +---components
+|   |   |       _actions.scss
+|   |   |       _button.scss
+|   |   |       _form.scss
+|   |   |       _icon.scss
+|   |   |       _icons.scss
+|   |   |       _list.scss
+|   |   |       _panel.scss
+|   |   |       _poptrox-popup.scss
+|   |   |       _table.scss
+|   |   |       
+|   |   +---layout
+|   |   |       _footer.scss
+|   |   |       _header.scss
+|   |   |       _main.scss
+|   |   |       _wrapper.scss
+|   |   |       
+|   |   \---libs
+|   |           _breakpoints.scss
+|   |           _functions.scss
+|   |           _mixins.scss
+|   |           _vars.scss
+|   |           _vendor.scss
+|   |           
+|   \---webfonts
+|           fa-brands-400.eot
+|           fa-brands-400.svg
+|           fa-brands-400.ttf
+|           fa-brands-400.woff
+|           fa-brands-400.woff2
+|           fa-regular-400.eot
+|           fa-regular-400.svg
+|           fa-regular-400.ttf
+|           fa-regular-400.woff
+|           fa-regular-400.woff2
+|           fa-solid-900.eot
+|           fa-solid-900.svg
+|           fa-solid-900.ttf
+|           fa-solid-900.woff
+|           fa-solid-900.woff2
+|           
+\---images
+    +---fulls
+    |       01.jpg
+    |       02.jpg
+    |       03.jpg
+    |       04.jpg
+    |       05.jpg
+    |       06.jpg
+    |       07.jpg
+    |       08.jpg
+    |       09.jpg
+    |       10.jpg
+    |       11.jpg
+    |       12.jpg
+    |       
+    \---thumbs
+            01.jpg
+            02.jpg
+            03.jpg
+            04.jpg
+            05.jpg
+            06.jpg
+            07.jpg
+            08.jpg
+            09.jpg
+            10.jpg
+            11.jpg
+            12.jpg
+            
